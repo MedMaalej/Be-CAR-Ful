@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/blackh/Desktop/EyeTrackSample_updated2/app/build/intermediates/exploded-aar/EyeTrackSample_updated2/openCVLibrary300/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="14af1f80d6ce84e01f091da280252c226e3ae7bc">
+        <dex dex="/home/blackh/Desktop/EyeTrackSample_updated2/app/build/intermediates/pre-dexed/debug/classes-dfbaa7f1951a04d173c470e2dc5d75ec729cb2da.jar" />
+    </item>
+
+</items>
